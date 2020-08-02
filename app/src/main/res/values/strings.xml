@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="title">Login</string>
+    <string name="person">Username</string>
+    <string name="lock">Password</string>
+    <string name="button">Submit</string>
+    <string name="info">Register Here.</string>
+</resources>
